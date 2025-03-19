@@ -171,7 +171,7 @@ IP-Adapters allow you to guide AI generations using **images** in addition to te
   - Use text prompts to fine-tune the output.  
   - The **Plus** version is ideal if you want the generation to closely follow the reference image.  
 
-  > - For **face-specific adapters**, results are strongest with clear reference photos.  
+> For **face-specific adapters**, results are strongest with clear reference photos.  
 
 ## Specialized Applications
 
