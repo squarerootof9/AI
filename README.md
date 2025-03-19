@@ -30,7 +30,6 @@ For AI-generated images, a **model** (like Stable Diffusion) serves as the core 
 
 - **Prompt Engineering**: Understanding how to craft effective prompts  
   [Prompt Guide](https://stable-diffusion-art.com/prompt-guide/)  
-  [📺 Google's 9 Hour AI Prompt Engineering Course In 20 Minutes](https://www.youtube.com/watch?v=p09yRj47kNM)
 
 - **ControlNet**: Enhancing AI-generated images with additional control  
   [ControlNet Overview](https://stable-diffusion-art.com/controlnet/)
@@ -115,6 +114,11 @@ ControlNet is the most widely used extension, allowing models to follow guidance
 [📋](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111.git)[Ultimate SD Upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111) — High-quality upscaling for AI-generated images.  
 [📋](https://github.com/Bing-su/adetailer.git)[After Detailer](https://github.com/Bing-su/adetailer) — Automatic post-processing to refine faces and small details. (Download on first ui launch after install)  
 
+### **Managing Extensions**  
+- To remove an extension, close the UI and delete its folder from:  
+  📂 `stable-diffusion-webui/extensions/`  
+- Then restart the UI and check the Extensions tab to confirm removal.  
+
 
 ## **ControlNet Adapters (Optional Advanced Control)**  
 ControlNet Adapters are specialized models that help guide the AI using different input types like canny edges, depth maps, sketches, or color references. They allow for **precise structural or style control** over your generated images.  
@@ -156,6 +160,8 @@ IP-Adapters allow you to guide AI generations using **images** in addition to te
 - **Where to Download IP-Adapters?**  
   - [🔗](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter_sd15.pth) **IP-Adapter SD15 (standard)**  
   - [🔗](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter_sd15_plus.pth) **IP-Adapter SD15 Plus (stronger feature retention)**  
+  - [🔗](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter-face_sd15.pth) **IP-Adapter Face SD15 (portrait-focused)**  
+  - [🔗](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter-face_sd15_plus.pth) **IP-Adapter Face Plus SD15 (strong face retention)**  
 
 - **How to Use IP-Adapters?**  
   - Place the `.pth` files in:  
@@ -163,7 +169,9 @@ IP-Adapters allow you to guide AI generations using **images** in addition to te
   - In **AUTOMATIC1111**, select an **IP-Adapter** option from the ControlNet dropdown.  
   - Load your reference image in ControlNet.  
   - Use text prompts to fine-tune the output.  
-  - The **Plus** version is ideal if you want the generation to closely follow the reference image.
+  - The **Plus** version is ideal if you want the generation to closely follow the reference image.  
+
+  > - For **face-specific adapters**, results are strongest with clear reference photos.  
 
 ## Specialized Applications
 
