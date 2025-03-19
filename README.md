@@ -30,7 +30,7 @@ For AI-generated images, a **model** (like Stable Diffusion) serves as the core 
 
 - **Prompt Engineering**: Understanding how to craft effective prompts  
   [Prompt Guide](https://stable-diffusion-art.com/prompt-guide/)  
-  [Google's 9 Hour AI Prompt Engineering Course In 20 Minutes](https://www.youtube.com/watch?v=p09yRj47kNM)
+  [📺 Google's 9 Hour AI Prompt Engineering Course In 20 Minutes](https://www.youtube.com/watch?v=p09yRj47kNM)
 
 - **ControlNet**: Enhancing AI-generated images with additional control  
   [ControlNet Overview](https://stable-diffusion-art.com/controlnet/)
@@ -107,8 +107,7 @@ ControlNet is the most widely used extension, allowing models to follow guidance
 [📋](https://github.com/Mikubill/sd-webui-controlnet.git)[ControlNet (core extension)](https://github.com/Mikubill/sd-webui-controlnet) — Add structure with input guides like canny edges, depth maps, or poses.  
 [📋](https://github.com/CMU-Perceptual-Computing-Lab/openpose.git)[OpenPose Editor](https://github.com/CMU-Perceptual-Computing-Lab/openpose) — Create or edit poses for use in ControlNet.  
 [📋](https://github.com/hako-mikan/sd-webui-regional-prompter.git)[Regional Prompter](https://github.com/hako-mikan/sd-webui-regional-prompter) — Use different prompts in different areas of an image.  
-[📋](https://github.com/antfu/sd-webui-qrcode-toolkit.git)[QR Code Toolkit](https://github.com/antfu/sd-webui-qrcode-toolkit) — Generate and style scannable QR codes using Stable Diffusion.  
-[📋](https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster)[QR Code Monster Model](https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster) — A specialized ControlNet model for highly stylized QR codes.  
+[📋](https://github.com/antfu/sd-webui-qrcode-toolkit.git)[QR Code Toolkit](https://github.com/antfu/sd-webui-qrcode-toolkit) — Generate and style scannable QR codes using Stable Diffusion.    
 [📋](https://github.com/LEv145/--sd-webui-ar-plus.git)[Aspect Ratio Selector Plus](https://github.com/LEv145/--sd-webui-ar-plus) — Advanced aspect ratio management for AUTOMATIC1111.  
 [📋](https://github.com/zanllp/sd-webui-infinite-image-browsing.git)[Infinite Image Browser](https://github.com/zanllp/sd-webui-infinite-image-browsing) — Browse your generations in a clean, searchable interface.  
 [📋](https://github.com/pharmapsychotic/clip-interrogator-ext.git)[CLIP Interrogator](https://github.com/pharmapsychotic/clip-interrogator-ext) — Analyze images to reverse-engineer prompt ideas. (Large download on first use)  
@@ -172,25 +171,25 @@ IP-Adapters allow you to guide AI generations using **images** in addition to te
 
 ### QR Code Generation
 QR codes can be customized in intricate ways beyond simple black-and-white patterns. Here’s an example of a video showcasing advanced QR code designs:  
-[Watch the video](https://www.youtube.com/watch?v=nFfHEmNu0Zk)
+[📺 Watch the video](https://www.youtube.com/watch?v=nFfHEmNu0Zk)
 
 For a deeper understanding of how QR codes work on a technical level, this video explains the mechanics behind them:  
-[Technical QR Code Breakdown](https://www.youtube.com/watch?v=w5ebcowAJD8)
+[📺 Technical QR Code Breakdown](https://www.youtube.com/watch?v=w5ebcowAJD8)
 
 ### **QR Code Generation with ControlNet**  
 ControlNet can be used to generate artistic or stylized QR codes while preserving scanability. This allows you to create unique designs, custom palettes, and branded codes.
 
 ### **Recommended QR Code ControlNet Models**  
 
-- [⛓️](https://huggingface.co/DionTimmer/controlnet_qrcode) **QR Code Conditioned ControlNet Models (SD 1.5 and SD 2.1)** — Official general-purpose QR code models for structured, scannable codes.  
+- [🔗](https://huggingface.co/DionTimmer/controlnet_qrcode) **QR Code Conditioned ControlNet Models (SD 1.5 and SD 2.1)** — Official general-purpose QR code models for structured, scannable codes.  
 
-- [⛓️](https://civitai.com/models/90940?modelVersionId=96917) **Controlnet QR Pattern v1 (SD 1.5)** — First version for subtle artistic pattern integration.  
+- [🔗](https://civitai.com/models/90940?modelVersionId=96917) **Controlnet QR Pattern v1 (SD 1.5)** — First version for subtle artistic pattern integration.  
 
-- [⛓️](https://civitai.com/models/90940?modelVersionId=111973) **Controlnet QR Pattern v2 (SD 1.5)** — More creative and bold pattern stylization.  
+- [🔗](https://civitai.com/models/90940?modelVersionId=111973) **Controlnet QR Pattern v2 (SD 1.5)** — More creative and bold pattern stylization.  
 
-- [⛓️](https://civitai.com/models/111006?modelVersionId=119698) **QR Code Monster v1** — Stylized, artistic QR codes that still scan well (first version).  
+- [🔗](https://civitai.com/models/111006?modelVersionId=119698) **QR Code Monster v1** — Stylized, artistic QR codes that still scan well (first version).  
 
-- [⛓️](https://civitai.com/models/111006?modelVersionId=122143) **QR Code Monster v2** — Improved version with better balance between style and scanning reliability.  
+- [🔗](https://civitai.com/models/111006?modelVersionId=122143) **QR Code Monster v2** — Improved version with better balance between style and scanning reliability.  
 
 ### **Where to Place These Models:**  
 Place `.safetensors` files in:  
@@ -208,7 +207,7 @@ Place `.safetensors` files in:
 
 ## AI Voice and Face Cloning
 For those interested in AI-driven media manipulation, this video covers voice and face cloning for videos:  
-[AI Voice and Face Cloning](https://www.youtube.com/watch?v=-brbxJ43F1c)
+[📺 AI Voice and Face Cloning](https://www.youtube.com/watch?v=-brbxJ43F1c)
 
 ## Further Learning
 For in-depth tutorials and resources beyond video content:
@@ -218,7 +217,7 @@ For in-depth tutorials and resources beyond video content:
   - [Hugging Face](https://huggingface.co/)  
   - [CivitAI](https://civitai.com/)
 - **About Computer Neural Networks**:
-  - [Future Computers Will Be Radically Different (Analog Computing)](https://www.youtube.com/watch?v=GVsUOuSjvcg)
+  - [📺 Future Computers Will Be Radically Different (Analog Computing)](https://www.youtube.com/watch?v=GVsUOuSjvcg)
 
 ## **Community & Support**  
 Joining AI-focused communities is a great way to learn, troubleshoot issues, and stay updated with the latest developments.  
@@ -232,4 +231,3 @@ Joining AI-focused communities is a great way to learn, troubleshoot issues, and
 
 - **Hugging Face Forums** – Official discussion hub for AI models.  
   🔗 [Hugging Face Community](https://discuss.huggingface.co/)  
-# AI
