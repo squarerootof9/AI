@@ -89,8 +89,8 @@ LoRA (Low-Rank Adaptation) models allow users to **fine-tune Stable Diffusion** 
   - Easily switch between LoRAs for different artistic effects.  
 
 - **Where to Find LoRAs?**  
-  - 🔗 **[CivitAI](https://civitai.com/)** – Largest repository of user-generated LoRA models.  
-  - 🔗 **[Hugging Face](https://huggingface.co/)** – Hosts various pre-trained LoRAs.  
+  🔗 **[CivitAI](https://civitai.com/)** – Largest repository of user-generated LoRA models.  
+  🔗 **[Hugging Face](https://huggingface.co/)** – Hosts various pre-trained LoRAs.  
 
 - **How to Use LoRAs?**  
   - In **AUTOMATIC1111**, place the `.safetensors` file into the **`models/Lora/`** folder.  
@@ -129,18 +129,18 @@ ControlNet Adapters are specialized models that help guide the AI using differen
   - Useful for tasks like **custom QR code generation**, architectural outlines, and stylized compositions.  
 
 - **Where to Download [T2I-Adapters](https://huggingface.co/TencentARC/T2I-Adapter)?**  
-  - [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_canny_sd14v1.pth) **T2I Adapter Canny (SD 1.4 v1)**  
-  - [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_canny_sd15v2.pth) **T2I Adapter Canny (SD 1.5 v2)**  
-  - [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_color_sd14v1.pth) **T2I Adapter Color (SD 1.4 v1)**  
-  - [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_depth_sd14v1.pth) **T2I Adapter Depth (SD 1.4 v1)**  
-  - [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_depth_sd15v2.pth) **T2I Adapter Depth (SD 1.5 v2)**  
-  - [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_keypose_sd14v1.pth) **T2I Adapter Keypose (SD 1.4 v1)**  
-  - [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_openpose_sd14v1.pth) **T2I Adapter OpenPose (SD 1.4 v1)**  
-  - [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_seg_sd14v1.pth) **T2I Adapter Segmentation (SD 1.4 v1)**  
-  - [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_sketch_sd14v1.pth) **T2I Adapter Sketch (SD 1.4 v1)**  
-  - [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_sketch_sd15v2.pth) **T2I Adapter Sketch (SD 1.5 v2)**  
-  - [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_style_sd14v1.pth) **T2I Adapter Style (SD 1.4 v1)**  
-  - [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_zoedepth_sd15v1.pth) **T2I Adapter ZoeDepth (SD 1.5 v1)**  
+  [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_canny_sd14v1.pth) **T2I Adapter Canny (SD 1.4 v1)**  
+  [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_canny_sd15v2.pth) **T2I Adapter Canny (SD 1.5 v2)**  
+  [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_color_sd14v1.pth) **T2I Adapter Color (SD 1.4 v1)**  
+  [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_depth_sd14v1.pth) **T2I Adapter Depth (SD 1.4 v1)**  
+  [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_depth_sd15v2.pth) **T2I Adapter Depth (SD 1.5 v2)**  
+  [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_keypose_sd14v1.pth) **T2I Adapter Keypose (SD 1.4 v1)**  
+  [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_openpose_sd14v1.pth) **T2I Adapter OpenPose (SD 1.4 v1)**  
+  [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_seg_sd14v1.pth) **T2I Adapter Segmentation (SD 1.4 v1)**  
+  [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_sketch_sd14v1.pth) **T2I Adapter Sketch (SD 1.4 v1)**  
+  [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_sketch_sd15v2.pth) **T2I Adapter Sketch (SD 1.5 v2)**  
+  [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_style_sd14v1.pth) **T2I Adapter Style (SD 1.4 v1)**  
+  [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_zoedepth_sd15v1.pth) **T2I Adapter ZoeDepth (SD 1.5 v1)**  
 
 - **How to Use ControlNet Adapters?**  
   - Place adapter `.pth` files in:  
@@ -158,10 +158,10 @@ IP-Adapters allow you to guide AI generations using **images** in addition to te
   - Great for replicating designs, poses, or custom palettes (such as custom QR codes).  
 
 - **Where to Download IP-Adapters?**  
-  - [🔗](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter_sd15.pth) **IP-Adapter SD15 (standard)**  
-  - [🔗](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter_sd15_plus.pth) **IP-Adapter SD15 Plus (stronger feature retention)**  
-  - [🔗](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter-face_sd15.pth) **IP-Adapter Face SD15 (portrait-focused)**  
-  - [🔗](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter-face_sd15_plus.pth) **IP-Adapter Face Plus SD15 (strong face retention)**  
+  [🔗](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter_sd15.pth) **IP-Adapter SD15 (standard)**  
+  [🔗](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter_sd15_plus.pth) **IP-Adapter SD15 Plus (stronger feature retention)**  
+  [🔗](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter-face_sd15.pth) **IP-Adapter Face SD15 (portrait-focused)**  
+  [🔗](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter-face_sd15_plus.pth) **IP-Adapter Face Plus SD15 (strong face retention)**  
 
 - **How to Use IP-Adapters?**  
   - Place the `.pth` files in:  
@@ -189,15 +189,15 @@ ControlNet can be used to generate artistic or stylized QR codes while preservin
 
 ### **Recommended QR Code ControlNet Models**  
 
-- [🔗 **QR Code Conditioned ControlNet Models (SD 1.5 and SD 2.1)**](https://huggingface.co/DionTimmer/controlnet_qrcode) — Official general-purpose QR code models for structured, scannable codes.  
+[🔗 **QR Code Conditioned ControlNet Models (SD 1.5 and SD 2.1)**](https://huggingface.co/DionTimmer/controlnet_qrcode) — Official general-purpose QR code models for structured, scannable codes.  
 
-- [🔗 **Controlnet QR Pattern v1 (SD 1.5)**](https://civitai.com/models/90940?modelVersionId=96917) — First version for subtle artistic pattern integration.  
+[🔗 **Controlnet QR Pattern v1 (SD 1.5)**](https://civitai.com/models/90940?modelVersionId=96917) — First version for subtle artistic pattern integration.  
 
-- [🔗 **Controlnet QR Pattern v2 (SD 1.5)**](https://civitai.com/models/90940?modelVersionId=111973) — More creative and bold pattern stylization.  
+[🔗 **Controlnet QR Pattern v2 (SD 1.5)**](https://civitai.com/models/90940?modelVersionId=111973) — More creative and bold pattern stylization.  
 
-- [🔗 **QR Code Monster v1**](https://civitai.com/models/111006?modelVersionId=119698) — Stylized, artistic QR codes that still scan well (first version).  
+[🔗 **QR Code Monster v1**](https://civitai.com/models/111006?modelVersionId=119698) — Stylized, artistic QR codes that still scan well (first version).  
 
-- [🔗 **QR Code Monster v2**](https://civitai.com/models/111006?modelVersionId=122143) — Improved version with better balance between style and scanning reliability.  
+[🔗 **QR Code Monster v2**](https://civitai.com/models/111006?modelVersionId=122143) — Improved version with better balance between style and scanning reliability.  
 
 ### **Where to Place These Models:**  
 Place `.safetensors` files in:  
