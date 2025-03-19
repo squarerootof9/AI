@@ -42,17 +42,17 @@ For AI-generated images, a **model** (like Stable Diffusion) serves as the core 
 
 ## **Model Downloads**  
 
-[🔗](https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors) **[Stable Diffusion v1.5](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5)**  
-[🔗](https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/768-v-ema.ckpt) **[Stable Diffusion 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1)**  
-[🔗](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors) **[Stable Diffusion XL (SDXL) Base 1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/)**  
-[🔗](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors) **[Stable Diffusion XL (SDXL) Refiner 1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/)**  
-[🔗](https://huggingface.co/black-forest-labs/FLUX.1-dev/blob/main/flux1-dev.safetensors) **[FLUX Model](https://huggingface.co/black-forest-labs/FLUX.1-dev)**  
-[🔗](https://huggingface.co/lllyasviel/flux1_dev/resolve/main/flux1-dev-fp8.safetensors) **[FLUX 1 Dev FP8](https://huggingface.co/lllyasviel/flux1_dev/)**  
-[🔗](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0/resolve/main/lumina-image-v2-fp16.safetensors) **[Lumina Image 2.0](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0/)**  
-[🔗](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE/resolve/main/Realistic_Vision_V5.1_fp16-no-ema.safetensors) **[Realistic Vision V5.1 (No VAE)](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE)**  
-[🔗](https://civitai.com/api/download/models/5636?type=Pruned%20Model&format=SafeTensor) **[AbyssOrangeMix 3 (Pruned)](https://civitai.com/models/5636/abyssorangemix3)**  
-[🔗](https://huggingface.co/XpucT/Deliberate/resolve/main/Deliberate_v2.safetensors) **[Deliberate v2](https://huggingface.co/XpucT/Deliberate/)**  
-[🔗](https://huggingface.co/acheong08/f222/resolve/main/f222.ckpt) **[f222 Model](https://huggingface.co/acheong08/f222/)**  
+[📥](https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors) **[Stable Diffusion v1.5](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5)**  
+[📥](https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/768-v-ema.ckpt) **[Stable Diffusion 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1)**  
+[📥](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors) **[Stable Diffusion XL (SDXL) Base 1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/)**  
+[📥](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors) **[Stable Diffusion XL (SDXL) Refiner 1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/)**  
+[📥](https://huggingface.co/black-forest-labs/FLUX.1-dev/blob/main/flux1-dev.safetensors) **[FLUX Model](https://huggingface.co/black-forest-labs/FLUX.1-dev)**  
+[📥](https://huggingface.co/lllyasviel/flux1_dev/resolve/main/flux1-dev-fp8.safetensors) **[FLUX 1 Dev FP8](https://huggingface.co/lllyasviel/flux1_dev/)**  
+[📥](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0/resolve/main/lumina-image-v2-fp16.safetensors) **[Lumina Image 2.0](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0/)**  
+[📥](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE/resolve/main/Realistic_Vision_V5.1_fp16-no-ema.safetensors) **[Realistic Vision V5.1 (No VAE)](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE)**  
+[📥](https://civitai.com/api/download/models/5636?type=Pruned%20Model&format=SafeTensor) **[AbyssOrangeMix 3 (Pruned)](https://civitai.com/models/5636/abyssorangemix3)**  
+[📥](https://huggingface.co/XpucT/Deliberate/resolve/main/Deliberate_v2.safetensors) **[Deliberate v2](https://huggingface.co/XpucT/Deliberate/)**  
+[📥](https://huggingface.co/acheong08/f222/resolve/main/f222.ckpt) **[f222 Model](https://huggingface.co/acheong08/f222/)**  
 🔗 **[Juggernaut XL](https://civitai.com/models/133005/juggernaut-xl)**  
 🔗 **[DreamShaper XL](https://civitai.com/models/112902/dreamshaper-xl)**  
 🔗 **[RealVisXL V5.0](https://civitai.com/models/139562/realvisxl-v40)**  
@@ -103,16 +103,16 @@ ControlNet is the most widely used extension, allowing models to follow guidance
 
 > **📋 Right-click the clipboard icon to copy the direct install link, then paste it into the Extensions > Install from URL box.**
 
-[📋](https://github.com/Mikubill/sd-webui-controlnet.git)[ControlNet (core extension)](https://github.com/Mikubill/sd-webui-controlnet) — Add structure with input guides like canny edges, depth maps, or poses.  
-[📋](https://github.com/CMU-Perceptual-Computing-Lab/openpose.git)[OpenPose Editor](https://github.com/CMU-Perceptual-Computing-Lab/openpose) — Create or edit poses for use in ControlNet.  
-[📋](https://github.com/hako-mikan/sd-webui-regional-prompter.git)[Regional Prompter](https://github.com/hako-mikan/sd-webui-regional-prompter) — Use different prompts in different areas of an image.  
-[📋](https://github.com/antfu/sd-webui-qrcode-toolkit.git)[QR Code Toolkit](https://github.com/antfu/sd-webui-qrcode-toolkit) — Generate and style scannable QR codes using Stable Diffusion.    
-[📋](https://github.com/LEv145/--sd-webui-ar-plus.git)[Aspect Ratio Selector Plus](https://github.com/LEv145/--sd-webui-ar-plus) — Advanced aspect ratio management for AUTOMATIC1111.  
-[📋](https://github.com/zanllp/sd-webui-infinite-image-browsing.git)[Infinite Image Browser](https://github.com/zanllp/sd-webui-infinite-image-browsing) — Browse your generations in a clean, searchable interface.  
-[📋](https://github.com/pharmapsychotic/clip-interrogator-ext.git)[CLIP Interrogator](https://github.com/pharmapsychotic/clip-interrogator-ext) — Analyze images to reverse-engineer prompt ideas. (Large download on first use)  
-[📋](https://github.com/deforum-art/sd-webui-deforum.git)[Deforum](https://github.com/deforum-art/sd-webui-deforum) — Animation and video generation with Stable Diffusion.  
-[📋](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111.git)[Ultimate SD Upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111) — High-quality upscaling for AI-generated images.  
-[📋](https://github.com/Bing-su/adetailer.git)[After Detailer](https://github.com/Bing-su/adetailer) — Automatic post-processing to refine faces and small details. (Download on first ui launch after install)  
+[📋](https://github.com/Mikubill/sd-webui-controlnet.git) [ControlNet (core extension)](https://github.com/Mikubill/sd-webui-controlnet) — Add structure with input guides like canny edges, depth maps, or poses.  
+[📋](https://github.com/CMU-Perceptual-Computing-Lab/openpose.git) [OpenPose Editor](https://github.com/CMU-Perceptual-Computing-Lab/openpose) — Create or edit poses for use in ControlNet.  
+[📋](https://github.com/hako-mikan/sd-webui-regional-prompter.git) [Regional Prompter](https://github.com/hako-mikan/sd-webui-regional-prompter) — Use different prompts in different areas of an image.  
+[📋](https://github.com/antfu/sd-webui-qrcode-toolkit.git) [QR Code Toolkit](https://github.com/antfu/sd-webui-qrcode-toolkit) — Generate and style scannable QR codes using Stable Diffusion.    
+[📋](https://github.com/LEv145/--sd-webui-ar-plus.git) [Aspect Ratio Selector Plus](https://github.com/LEv145/--sd-webui-ar-plus) — Advanced aspect ratio management for AUTOMATIC1111.  
+[📋](https://github.com/zanllp/sd-webui-infinite-image-browsing.git) [Infinite Image Browser](https://github.com/zanllp/sd-webui-infinite-image-browsing) — Browse your generations in a clean, searchable interface.  
+[📋](https://github.com/pharmapsychotic/clip-interrogator-ext.git) [CLIP Interrogator](https://github.com/pharmapsychotic/clip-interrogator-ext) — Analyze images to reverse-engineer prompt ideas. (Large download on first use)  
+[📋](https://github.com/deforum-art/sd-webui-deforum.git) [Deforum](https://github.com/deforum-art/sd-webui-deforum) — Animation and video generation with Stable Diffusion.  
+[📋](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111.git) [Ultimate SD Upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111) — High-quality upscaling for AI-generated images.  
+[📋](https://github.com/Bing-su/adetailer.git) [After Detailer](https://github.com/Bing-su/adetailer) — Automatic post-processing to refine faces and small details. (Download on first ui launch after install)  
 
 ### **Managing Extensions**  
 - To remove an extension, close the UI and delete its folder from:  
@@ -179,25 +179,25 @@ IP-Adapters allow you to guide AI generations using **images** in addition to te
 
 ### QR Code Generation
 QR codes can be customized in intricate ways beyond simple black-and-white patterns. Here’s an example of a video showcasing advanced QR code designs:  
-[📺 Watch the video](https://www.youtube.com/watch?v=nFfHEmNu0Zk)
+[📺 (Ai Voice Tutor) Next Gen QR Code Maker](https://www.youtube.com/watch?v=nFfHEmNu0Zk)
 
 For a deeper understanding of how QR codes work on a technical level, this video explains the mechanics behind them:  
-[📺 Technical QR Code Breakdown](https://www.youtube.com/watch?v=w5ebcowAJD8)
+[📺 (Veritasium) I built a QR code with my bare hands to see how it works](https://www.youtube.com/watch?v=w5ebcowAJD8)
 
 ### **QR Code Generation with ControlNet**  
 ControlNet can be used to generate artistic or stylized QR codes while preserving scanability. This allows you to create unique designs, custom palettes, and branded codes.
 
 ### **Recommended QR Code ControlNet Models**  
 
-- [🔗](https://huggingface.co/DionTimmer/controlnet_qrcode) **QR Code Conditioned ControlNet Models (SD 1.5 and SD 2.1)** — Official general-purpose QR code models for structured, scannable codes.  
+- [🔗 **QR Code Conditioned ControlNet Models (SD 1.5 and SD 2.1)**](https://huggingface.co/DionTimmer/controlnet_qrcode) — Official general-purpose QR code models for structured, scannable codes.  
 
-- [🔗](https://civitai.com/models/90940?modelVersionId=96917) **Controlnet QR Pattern v1 (SD 1.5)** — First version for subtle artistic pattern integration.  
+- [🔗 **Controlnet QR Pattern v1 (SD 1.5)**](https://civitai.com/models/90940?modelVersionId=96917) — First version for subtle artistic pattern integration.  
 
-- [🔗](https://civitai.com/models/90940?modelVersionId=111973) **Controlnet QR Pattern v2 (SD 1.5)** — More creative and bold pattern stylization.  
+- [🔗 **Controlnet QR Pattern v2 (SD 1.5)**](https://civitai.com/models/90940?modelVersionId=111973) — More creative and bold pattern stylization.  
 
-- [🔗](https://civitai.com/models/111006?modelVersionId=119698) **QR Code Monster v1** — Stylized, artistic QR codes that still scan well (first version).  
+- [🔗 **QR Code Monster v1**](https://civitai.com/models/111006?modelVersionId=119698) — Stylized, artistic QR codes that still scan well (first version).  
 
-- [🔗](https://civitai.com/models/111006?modelVersionId=122143) **QR Code Monster v2** — Improved version with better balance between style and scanning reliability.  
+- [🔗 **QR Code Monster v2**](https://civitai.com/models/111006?modelVersionId=122143) — Improved version with better balance between style and scanning reliability.  
 
 ### **Where to Place These Models:**  
 Place `.safetensors` files in:  
@@ -215,7 +215,7 @@ Place `.safetensors` files in:
 
 ## AI Voice and Face Cloning
 For those interested in AI-driven media manipulation, this video covers voice and face cloning for videos:  
-[📺 AI Voice and Face Cloning](https://www.youtube.com/watch?v=-brbxJ43F1c)
+[📺 (Ai Voice Tutor) AI Voice and Face Cloning](https://www.youtube.com/watch?v=-brbxJ43F1c)
 
 ## Further Learning
 For in-depth tutorials and resources beyond video content:
@@ -225,7 +225,7 @@ For in-depth tutorials and resources beyond video content:
   - [Hugging Face](https://huggingface.co/)  
   - [CivitAI](https://civitai.com/)
 - **About Computer Neural Networks**:
-  - [📺 Future Computers Will Be Radically Different (Analog Computing)](https://www.youtube.com/watch?v=GVsUOuSjvcg)
+  - [📺 (Veritasium) Future Computers Will Be Radically Different (Analog Computing)](https://www.youtube.com/watch?v=GVsUOuSjvcg)
 
 ## **Community & Support**  
 Joining AI-focused communities is a great way to learn, troubleshoot issues, and stay updated with the latest developments.  
