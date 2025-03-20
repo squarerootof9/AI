@@ -26,10 +26,17 @@ For AI-generated images, a **model** (like Stable Diffusion) serves as the core 
 
 ### Essential Stable Diffusion Resources
 
-> These resources help you get better results and understand what’s happening under the hood.
+These resources help you get better results and understand what’s happening under the hood.
 
 - **Prompt Engineering**: Understanding how to craft effective prompts  
+
+  **Full guide for detailed prompt engineering:**  
   [Prompt Guide](https://stable-diffusion-art.com/prompt-guide/)  
+
+    > *Example Prompt:*  
+    > `a futuristic cityscape at sunset, ultra-realistic, (vibrant colors:1.3), (clouds:0.8), wide-angle view, cinematic lighting`  
+    > *Example Negative Prompt:*  
+    > `blurry, low quality, distorted proportions, watermark`  
 
 - **ControlNet**: Enhancing AI-generated images with additional control  
   [ControlNet Overview](https://stable-diffusion-art.com/controlnet/)
@@ -157,11 +164,11 @@ IP-Adapters allow you to guide AI generations using **images** in addition to te
   - Combine image reference and text prompts for more precise control.  
   - Great for replicating designs, poses, or custom palettes (such as custom QR codes).  
 
-- **Where to Download IP-Adapters?**  
-  [🔗](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter_sd15.pth) **IP-Adapter SD15 (standard)**  
-  [🔗](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter_sd15_plus.pth) **IP-Adapter SD15 Plus (stronger feature retention)**  
-  [🔗](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter-face_sd15.pth) **IP-Adapter Face SD15 (portrait-focused)**  
-  [🔗](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter-face_sd15_plus.pth) **IP-Adapter Face Plus SD15 (strong face retention)**  
+- **Where to Download [IP-Adapters](https://huggingface.co/lllyasviel/sd_control_collection)?**  
+  [📥](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter_sd15.pth) **IP-Adapter SD15 (standard)**  
+  [📥](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter_sd15_plus.pth) **IP-Adapter SD15 Plus (stronger feature retention)**  
+  [📥](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter-face_sd15.pth) **IP-Adapter Face SD15 (portrait-focused)**  
+  [📥](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter-face_sd15_plus.pth) **IP-Adapter Face Plus SD15 (strong face retention)**  
 
 - **How to Use IP-Adapters?**  
   - Place the `.pth` files in:  
@@ -210,7 +217,7 @@ Place `.safetensors` files in:
 - Keep outputs at **512x512 resolution** for reliable results.  
 - Always test the generated QR codes with a scanner before using them in print or production.  
 
-> **Example Prompt:**  
+> *Example Prompt:*  
 > `an intricate, stylized QR code design, pastel color palette, soft shadows, clean edges, digital art`
 
 ## AI Voice and Face Cloning
