@@ -55,9 +55,13 @@ These resources help you get better results and understand what’s happening un
 
 ## **Model Downloads**  
 
+> Note: emaonly models contain smoothed weights for more stable, higher-quality generations. Full pruned models include additional weights used mainly for training or fine-tuning.  
+  You can use and create LoRAs with emaonly models with no issues.
+
 ### **Stable Diffusion Core Family**  
-[📥](https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors) **[Stable Diffusion v1.5](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5)**  
-[📥](https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/768-v-ema.ckpt) **[Stable Diffusion 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1)**  
+[📥](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors) **[Stable Diffusion v1.5 (emaonly)](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5)**  
+[📥](https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.safetensors) **[Stable Diffusion 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1)**  
+[📥](https://huggingface.co/stabilityai/stable-diffusion-3.5-large/resolve/main/sd3.5_large.safetensors) **[Stable Diffusion 3.5 (requires login)](https://huggingface.co/stabilityai/stable-diffusion-3.5-large)**  
 [📥](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors) **[Stable Diffusion XL (SDXL) Base 1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/)**  
 [📥](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors) **[Stable Diffusion XL (SDXL) Refiner 1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/)**  
 
@@ -74,7 +78,8 @@ These resources help you get better results and understand what’s happening un
 [📥](https://huggingface.co/acheong08/f222/resolve/main/f222.ckpt) **[f222 Model](https://huggingface.co/acheong08/f222/)**  
 
 ### **Experimental and Alternative Architectures**  
-[📥](https://huggingface.co/black-forest-labs/FLUX.1-dev/blob/main/flux1-dev.safetensors) **[FLUX Model](https://huggingface.co/black-forest-labs/FLUX.1-dev)**  
+[📥](https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/flux1-dev.safetensors) **[FLUX Model (requires login)](https://huggingface.co/black-forest-labs/FLUX.1-dev)**  
+[📥](https://huggingface.co/black-forest-labs/FLUX.1-schnell/resolve/main/flux1-schnell.safetensors) **[FLUX.1-schnell](https://huggingface.co/black-forest-labs/FLUX.1-schnell)**  
 [📥](https://huggingface.co/lllyasviel/flux1_dev/resolve/main/flux1-dev-fp8.safetensors) **[FLUX 1 Dev FP8](https://huggingface.co/lllyasviel/flux1_dev/)**  
 [📥](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0/resolve/main/lumina-image-v2-fp16.safetensors) **[Lumina Image 2.0](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0/)**  
 
