@@ -35,9 +35,11 @@ These resources help you get better results and understand what’s happening un
   [📺 (pixaroma) Stable Diffusion Prompt Guide](https://www.youtube.com/watch?v=0Pmfpoi3-A0)
 
     > *Example Prompt:*  
-    > `a futuristic cityscape at sunset, ultra-realistic, (vibrant colors:1.3), (clouds:0.8), wide-angle view, cinematic lighting`  
+    > `a futuristic cityscape at sunset with golden_gate_bridge, ultra-realistic, (vibrant colors:1.3), (clouds:0.8), wide-angle view, cinematic lighting`  
     > *Example Negative Prompt:*  
     > `blurry, low quality, distorted proportions, watermark`  
+
+    <img src="images/Deliberate_v2-4191499684.png" alt="Example Prompt Output" width="124"/>
 
 - **ControlNet**: Enhancing AI-generated images with additional control  
   [📖 ControlNet Overview](https://stable-diffusion-art.com/controlnet/)  
