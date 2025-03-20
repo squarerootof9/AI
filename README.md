@@ -31,7 +31,8 @@ These resources help you get better results and understand what’s happening un
 - **Prompt Engineering**: Understanding how to craft effective prompts  
 
   **Full guide for detailed prompt engineering:**  
-  [Prompt Guide](https://stable-diffusion-art.com/prompt-guide/)  
+  [📖 Prompt Guide](https://stable-diffusion-art.com/prompt-guide/)  
+  [📺 (pixaroma) Stable Diffusion Prompt Guide](https://www.youtube.com/watch?v=0Pmfpoi3-A0)
 
     > *Example Prompt:*  
     > `a futuristic cityscape at sunset, ultra-realistic, (vibrant colors:1.3), (clouds:0.8), wide-angle view, cinematic lighting`  
@@ -39,12 +40,13 @@ These resources help you get better results and understand what’s happening un
     > `blurry, low quality, distorted proportions, watermark`  
 
 - **ControlNet**: Enhancing AI-generated images with additional control  
-  [ControlNet Overview](https://stable-diffusion-art.com/controlnet/)
+  [📖 ControlNet Overview](https://stable-diffusion-art.com/controlnet/)  
+  [📺 (Bitesized Genius) Controlnet Stable Diffusion Tutorial In 8 Minutes (Automatic1111)](https://www.youtube.com/watch?v=DWvcLggvWcQ)
 
 - **Model Selection**: Finding the right AI model for specific use cases  
-  [SDXL Models](https://stable-diffusion-art.com/sdxl-model/)  
-  [Flux Model](https://stable-diffusion-art.com/flux/)  
-  [SDXL vs Flux1.dev models comparison](https://stable-diffusion-art.com/sdxl-vs-flux/)
+  [📖 SDXL Models](https://stable-diffusion-art.com/sdxl-model/)  
+  [📖 Flux Model](https://stable-diffusion-art.com/flux/)  
+  [📖 SDXL vs Flux1.dev models comparison](https://stable-diffusion-art.com/sdxl-vs-flux/)
 
 
 ## **Model Downloads**  
