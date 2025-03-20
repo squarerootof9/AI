@@ -42,7 +42,7 @@ These resources help you get better results and understand what’s happening un
     <img src="images/Deliberate_v2-4191499684.png" alt="Example Prompt Output" width="124"/>
 
 - **ControlNet**: Enhancing AI-generated images with additional control  
-  [📖 ControlNet Overview](https://stable-diffusion-art.com/controlnet/)  
+  [📖 ControlNet: A Complete Guide](https://stable-diffusion-art.com/controlnet/)  
   [📺 (Bitesized Genius) Controlnet Stable Diffusion Tutorial In 8 Minutes (Automatic1111)](https://www.youtube.com/watch?v=DWvcLggvWcQ)
 
 - **Model Selection**: Finding the right AI model for specific use cases  
@@ -167,6 +167,9 @@ IP-Adapters allow you to guide AI generations using **images** in addition to te
   - Generate images that match the **style, color palette, or composition** of an input image.  
   - Combine image reference and text prompts for more precise control.  
   - Great for replicating designs, poses, or custom palettes (such as custom QR codes).  
+
+  [📖 IP-Adapters: All you need to know](https://stable-diffusion-art.com/ip-adapter/)  
+  [📺 (Bitesized Genius) IP Adapter Tutorial In 9 Minutes In Stable Diffusion (Automatic1111)](https://www.youtube.com/watch?v=_-_vRtEMyUU)
 
 - **Where to Download [IP-Adapters](https://huggingface.co/lllyasviel/sd_control_collection)?**  
   [📥](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter_sd15.pth) **IP-Adapter SD15 (standard)**  
