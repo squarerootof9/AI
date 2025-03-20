@@ -186,14 +186,14 @@ IP-Adapters allow you to guide AI generations using **images** in addition to te
   [📖 IP-Adapters: All you need to know](https://stable-diffusion-art.com/ip-adapter/)  
   [📺 (Bitesized Genius) IP Adapter Tutorial In 9 Minutes In Stable Diffusion (Automatic1111)](https://www.youtube.com/watch?v=_-_vRtEMyUU)
 
-- **Where to Download [IP-Adapters](https://huggingface.co/lllyasviel/sd_control_collection)?**  
-  [📥](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter_sd15.pth) **IP-Adapter SD15 (standard)**  
-  [📥](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter_sd15_plus.pth) **IP-Adapter SD15 Plus (stronger feature retention)**  
-  [📥](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter-face_sd15.pth) **IP-Adapter Face SD15 (portrait-focused)**  
-  [📥](https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter-face_sd15_plus.pth) **IP-Adapter Face Plus SD15 (strong face retention)**  
+- **Where to Download [IP-Adapters](https://huggingface.co/h94/IP-Adapter)?**  
+  [📥](https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter_sd15.safetensors) **IP-Adapter SD15 (standard)**  
+  [📥](https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-plus_sd15.safetensors) **IP-Adapter SD15 Plus (stronger feature retention)**  
+  [📥](https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-full-face_sd15.safetensors) **IP-Adapter Face SD15 (portrait-focused)**  
+  [📥](https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-plus-face_sd15.safetensors) **IP-Adapter Face Plus SD15 (strong face retention)**  
 
 - **How to Use IP-Adapters?**  
-  - Place the `.pth` files in:  
+  - Place the `.safetensors` files in:  
     📂 `stable-diffusion-webui\extensions\sd-webui-controlnet\models`  
   - In **AUTOMATIC1111**, select an **IP-Adapter** option from the ControlNet dropdown.  
   - Load your reference image in ControlNet.  
