@@ -151,18 +151,22 @@ ControlNet Adapters are specialized models that help guide the AI using differen
   - Useful for tasks like **custom QR code generation**, architectural outlines, and stylized compositions.  
 
 - **Where to Download [T2I-Adapters](https://huggingface.co/TencentARC/T2I-Adapter)?**  
-  [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_canny_sd14v1.pth) **T2I Adapter Canny (SD 1.4 v1)**  
+
+  > **Note:** SD 1.4/1.5 adapters are designed for use with Stable Diffusion 1.x models. The SDXL adapters are specifically tuned for use with SDXL models, providing better compatibility and results when working with larger architectures.
+
   [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_canny_sd15v2.pth) **T2I Adapter Canny (SD 1.5 v2)**  
   [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_color_sd14v1.pth) **T2I Adapter Color (SD 1.4 v1)**  
-  [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_depth_sd14v1.pth) **T2I Adapter Depth (SD 1.4 v1)**  
   [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_depth_sd15v2.pth) **T2I Adapter Depth (SD 1.5 v2)**  
   [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_keypose_sd14v1.pth) **T2I Adapter Keypose (SD 1.4 v1)**  
   [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_openpose_sd14v1.pth) **T2I Adapter OpenPose (SD 1.4 v1)**  
   [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_seg_sd14v1.pth) **T2I Adapter Segmentation (SD 1.4 v1)**  
-  [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_sketch_sd14v1.pth) **T2I Adapter Sketch (SD 1.4 v1)**  
   [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_sketch_sd15v2.pth) **T2I Adapter Sketch (SD 1.5 v2)**  
   [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_style_sd14v1.pth) **T2I Adapter Style (SD 1.4 v1)**  
   [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_zoedepth_sd15v1.pth) **T2I Adapter ZoeDepth (SD 1.5 v1)**  
+
+  [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models_XL/adapter-xl-canny.pth) **T2I Adapter Canny (SDXL)**  
+  [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models_XL/adapter-xl-openpose.pth) **T2I Adapter OpenPose (SDXL)**  
+  [📥](https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models_XL/adapter-xl-sketch.pth) **T2I Adapter Sketch (SDXL)**  
 
 - **How to Use ControlNet Adapters?**  
   - Place adapter `.pth` files in:  
