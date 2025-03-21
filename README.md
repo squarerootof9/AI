@@ -213,6 +213,7 @@ IP-Adapters allow you to guide AI generations using **images** in addition to te
 
 ### QR Code Generation
 QR codes can be customized in intricate ways beyond simple black-and-white patterns. Here’s an example of a video showcasing advanced QR code designs:  
+[📺 (Ai Voice Tutor) AI QR Code Generator - Make QR Codes with AI - Stable Diffusion Controlnet](https://www.youtube.com/watch?v=Y1rYTnupZk4)
 [📺 (Ai Voice Tutor) Next Gen QR Code Maker](https://www.youtube.com/watch?v=nFfHEmNu0Zk)
 
 For a deeper understanding of how QR codes work on a technical level, this video explains the mechanics behind them:  
