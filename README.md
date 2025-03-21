@@ -59,7 +59,7 @@ These resources help you get better results and understand what’s happening un
   You can use and create LoRAs with emaonly models with no issues.
 
 ### **Stable Diffusion Core Family**  
-[📥](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors) **[Stable Diffusion v1.5 (emaonly)](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5)**  
+[📥](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/v1-5-pruned.safetensors) **[Stable Diffusion v1.5](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5)**  
 [📥](https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.safetensors) **[Stable Diffusion 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1)**  
 [📥](https://huggingface.co/stabilityai/stable-diffusion-3.5-large/resolve/main/sd3.5_large.safetensors) **[Stable Diffusion 3.5 (requires login)](https://huggingface.co/stabilityai/stable-diffusion-3.5-large)**  
 [📥](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors) **[Stable Diffusion XL (SDXL) Base 1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/)**  
@@ -73,15 +73,15 @@ These resources help you get better results and understand what’s happening un
 ### **Tuned and Specialized Realism Models**  
 [📥](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE/resolve/main/Realistic_Vision_V5.1_fp16-no-ema.safetensors) **[Realistic Vision V5.1 (No VAE)](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE)**  
 🔗 **[CyberRealistic](https://civitai.com/models/15003/cyberrealistic)**  
-[📥](https://civitai.com/api/download/models/5636?type=Pruned%20Model&format=SafeTensor) **[AbyssOrangeMix 3 (Pruned)](https://civitai.com/models/5636/abyssorangemix3)**  
+[📥](https://civitai.com/api/download/models/5636?type=Pruned%20Model&format=SafeTensor) **[AbyssOrangeMix 3 (requires login)](https://civitai.com/models/5636/abyssorangemix3)**  
 [📥](https://huggingface.co/XpucT/Deliberate/resolve/main/Deliberate_v2.safetensors) **[Deliberate v2](https://huggingface.co/XpucT/Deliberate/)**  
-[📥](https://huggingface.co/acheong08/f222/resolve/main/f222.ckpt) **[f222 Model](https://huggingface.co/acheong08/f222/)**  
+[📥](https://huggingface.co/acheong08/f222/resolve/main/f222.safetensors) **[f222 Model](https://huggingface.co/acheong08/f222/)**  
 
 ### **Experimental and Alternative Architectures**  
 [📥](https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/flux1-dev.safetensors) **[FLUX Model (requires login)](https://huggingface.co/black-forest-labs/FLUX.1-dev)**  
 [📥](https://huggingface.co/black-forest-labs/FLUX.1-schnell/resolve/main/flux1-schnell.safetensors) **[FLUX.1-schnell](https://huggingface.co/black-forest-labs/FLUX.1-schnell)**  
-[📥](https://huggingface.co/lllyasviel/flux1_dev/resolve/main/flux1-dev-fp8.safetensors) **[FLUX 1 Dev FP8](https://huggingface.co/lllyasviel/flux1_dev/)**  
-[📥](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0/resolve/main/lumina-image-v2-fp16.safetensors) **[Lumina Image 2.0](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0/)**  
+[📥](https://huggingface.co/lllyasviel/flux1_dev/resolve/main/flux1-dev-fp8.safetensors) **[FLUX 1 Dev FP8](https://huggingface.co/lllyasviel/flux1_dev)**  
+[📥](https://huggingface.co/Comfy-Org/Lumina_Image_2.0_Repackaged/resolve/main/all_in_one/lumina_2.safetensors) **[Lumina Image 2.0](https://huggingface.co/Comfy-Org/Lumina_Image_2.0_Repackaged)**  
 
 ---
 
