@@ -39,7 +39,7 @@ These resources help you get better results and understand what’s happening un
     > *Example Negative Prompt:*  
     > `blurry, low quality, distorted proportions, watermark`  
 
-    <img src="images/Deliberate_v2-4191499684.png" alt="Example Prompt Output" width="124"/>
+    <img src="images/Deliberate_v2-4191499684.png" alt="Example Prompt Output" width="124"/>    <img src="images/DreamShaper_8-4191499684.png" alt="Example Prompt Output" width="124"/>    <img src="images/SD_1.5-4191499684.png" alt="Example Prompt Output" width="124"/>    <img src="images/SD_2.1-4191499684.png" alt="Example Prompt Output" width="124"/>
 
 - **ControlNet**: Enhancing AI-generated images with additional control  
   [📖 ControlNet: A Complete Guide](https://stable-diffusion-art.com/controlnet/)  
