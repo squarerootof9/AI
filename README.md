@@ -32,7 +32,8 @@ These resources help you get better results and understand what’s happening un
 
   **Full guide for detailed prompt engineering:**  
   [📖 Prompt Guide](https://stable-diffusion-art.com/prompt-guide/)  
-  [📺 (pixaroma) Stable Diffusion Prompt Guide](https://www.youtube.com/watch?v=0Pmfpoi3-A0)
+  [📺 (Bitesized Genius) Explaining Prompting Techniques In 12 Minutes – Stable Diffusion Tutorial (Automatic1111)](https://www.youtube.com/watch?v=dlUpSEbbCho)  
+  [📺 (pixaroma) Stable Diffusion Prompt Guide](https://www.youtube.com/watch?v=0Pmfpoi3-A0)  
 
     > *Example Prompt:*  
     > `a futuristic cityscape at sunset with golden_gate_bridge, ultra-realistic, (vibrant colors:1.3), (clouds:0.8), wide-angle view, cinematic lighting`  
@@ -68,12 +69,12 @@ These resources help you get better results and understand what’s happening un
 ### **SDXL-Based & XL Derivative Models**  
 🔗 **[Juggernaut XL](https://civitai.com/models/133005/juggernaut-xl)**  
 🔗 **[DreamShaper XL](https://civitai.com/models/112902/dreamshaper-xl)**  
-🔗 **[RealVisXL V5.0](https://civitai.com/models/139562/realvisxl-v40)**  
+🔗 **[RealVisXL V5.0](https://civitai.com/models/139562/realvisxl-v50)**  
 
 ### **Tuned and Specialized Realism Models**  
 [📥](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE/resolve/main/Realistic_Vision_V5.1_fp16-no-ema.safetensors) **[Realistic Vision V5.1 (No VAE)](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE)**  
-🔗 **[CyberRealistic](https://civitai.com/models/15003/cyberrealistic)**  
-[📥](https://civitai.com/api/download/models/5636?type=Pruned%20Model&format=SafeTensor) **[AbyssOrangeMix 3 (requires login)](https://civitai.com/models/5636/abyssorangemix3)**  
+🔗 **[CyberRealistic](https://civitai.com/models/15003)**  
+🔗 **[AbsoluteReality](https://civitai.com/models/81458)**   
 [📥](https://huggingface.co/XpucT/Deliberate/resolve/main/Deliberate_v2.safetensors) **[Deliberate v2](https://huggingface.co/XpucT/Deliberate/)**  
 [📥](https://huggingface.co/acheong08/f222/resolve/main/f222.safetensors) **[f222 Model](https://huggingface.co/acheong08/f222/)**  
 
@@ -213,7 +214,6 @@ IP-Adapters allow you to guide AI generations using **images** in addition to te
 
 ### QR Code Generation
 QR codes can be customized in intricate ways beyond simple black-and-white patterns. Here’s an example of a video showcasing advanced QR code designs:  
-[📺 (Ai Voice Tutor) AI QR Code Generator - Make QR Codes with AI - Stable Diffusion Controlnet](https://www.youtube.com/watch?v=Y1rYTnupZk4)  
 [📺 (Ai Voice Tutor) Next Gen QR Code Maker](https://www.youtube.com/watch?v=nFfHEmNu0Zk)
 
 For a deeper understanding of how QR codes work on a technical level, this video explains the mechanics behind them:  
