@@ -149,15 +149,20 @@ ControlNet is the most widely used extension, allowing models to follow guidance
 > **📋 Right-click the clipboard icon to copy the direct install link, then paste it into the Extensions > Install from URL box.**
 
 [📋](https://github.com/Mikubill/sd-webui-controlnet.git) [ControlNet (core extension)](https://github.com/Mikubill/sd-webui-controlnet) — Add structure with input guides like canny edges, depth maps, or poses.  
-[📋](https://github.com/CMU-Perceptual-Computing-Lab/openpose.git) [OpenPose Editor](https://github.com/CMU-Perceptual-Computing-Lab/openpose) — Create or edit poses for use in ControlNet.  
+[📋](https://github.com/rifeWithKaiju/model_preset_manager.git) [Model Preset Manager](https://github.com/rifeWithKaiju/model_preset_manager) — This extension lets you create, manage, and share presets for models.  
+[📋](https://github.com/CMU-Perceptual-Computing-Lab/openpose.git) [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) — Create or edit poses for use in ControlNet.  
+[📋](https://github.com/fkunn1326/openpose-editor.git) [Openpose Editor](https://github.com/fkunn1326/openpose-editor) — Create or edit poses for use in ControlNet (requires `pip install basicsr`).  
+[📋](https://github.com/nonnonstop/sd-webui-3d-open-pose-editor.git) [3D Openpose Editor](https://github.com/nonnonstop/sd-webui-3d-open-pose-editor) — Create or edit poses for use in ControlNet.  
 [📋](https://github.com/hako-mikan/sd-webui-regional-prompter.git) [Regional Prompter](https://github.com/hako-mikan/sd-webui-regional-prompter) — Use different prompts in different areas of an image.  
 [📋](https://github.com/antfu/sd-webui-qrcode-toolkit.git) [QR Code Toolkit](https://github.com/antfu/sd-webui-qrcode-toolkit) — Generate and style scannable QR codes using Stable Diffusion.    
 [📋](https://github.com/LEv145/--sd-webui-ar-plus.git) [Aspect Ratio Selector Plus](https://github.com/LEv145/--sd-webui-ar-plus) — Advanced aspect ratio management for AUTOMATIC1111.  
+[📋](https://github.com/thomasasfk/sd-webui-aspect-ratio-helper.git) [Aspect Ratio Helper](https://github.com/thomasasfk/sd-webui-aspect-ratio-helper) — Simple extension to easily maintain aspect ratio while changing dimensions.  
 [📋](https://github.com/zanllp/sd-webui-infinite-image-browsing.git) [Infinite Image Browser](https://github.com/zanllp/sd-webui-infinite-image-browsing) — Browse your generations in a clean, searchable interface.  
 [📋](https://github.com/pharmapsychotic/clip-interrogator-ext.git) [CLIP Interrogator](https://github.com/pharmapsychotic/clip-interrogator-ext) — Analyze images to reverse-engineer prompt ideas. (Large download on first use)  
 [📋](https://github.com/deforum-art/sd-webui-deforum.git) [Deforum](https://github.com/deforum-art/sd-webui-deforum) — Animation and video generation with Stable Diffusion.  
 [📋](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111.git) [Ultimate SD Upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111) — High-quality upscaling for AI-generated images.  
 [📋](https://github.com/Bing-su/adetailer.git) [After Detailer](https://github.com/Bing-su/adetailer) — Automatic post-processing to refine faces and small details. (Download on first ui launch after install)  
+[📋](https://github.com/vladmandic/sd-extension-system-info.git) [System Info](https://github.com/vladmandic/sd-extension-system-info) — System Info tab extensions for SD Automatic WebUI.  
 
 ### **Managing Extensions**  
 - To remove an extension, close the UI and delete its folder from:  
