@@ -143,6 +143,9 @@ LoRA (Low-Rank Adaptation) models allow users to **fine-tune Stable Diffusion** 
 Extensions add powerful functionality to your AI workflow, enabling more control, structure, and creative freedom. Once you’re comfortable generating images from text, these tools will let you take control of composition, style, and fine detail.  
 ControlNet is the most widely used extension, allowing models to follow guidance from sketches, depth maps, poses, and even image prompts.  
 
+[📖 Must-have AUTOMATIC1111 extensions](https://stable-diffusion-art.com/automatic1111-extensions/)  
+[📺 (Bitesized Genius) 10 Must Have Stable Diffusion Extensions In 7 Minutes (Automatic1111)](https://www.youtube.com/watch?v=dVqBZYNNTGI)  
+
 > **📋 Right-click the clipboard icon to copy the direct install link, then paste it into the Extensions > Install from URL box.**
 
 [📋](https://github.com/Mikubill/sd-webui-controlnet.git) [ControlNet (core extension)](https://github.com/Mikubill/sd-webui-controlnet) — Add structure with input guides like canny edges, depth maps, or poses.  
