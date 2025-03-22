@@ -63,20 +63,24 @@ These resources help you get better results and understand what’s happening un
 [📥](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/v1-5-pruned.safetensors) **[Stable Diffusion v1.5](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5)**  
 [📥](https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.safetensors) **[Stable Diffusion 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1)**  
 [📥](https://huggingface.co/stabilityai/stable-diffusion-3.5-large/resolve/main/sd3.5_large.safetensors) **[Stable Diffusion 3.5 (requires login)](https://huggingface.co/stabilityai/stable-diffusion-3.5-large)**  
+
 [📥](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors) **[Stable Diffusion XL (SDXL) Base 1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/)**  
 [📥](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors) **[Stable Diffusion XL (SDXL) Refiner 1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/)**  
+
+### **SD 1.5 Based Models**  
+[📥](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE/resolve/main/Realistic_Vision_V5.1_fp16-no-ema.safetensors) **[Realistic Vision V5.1 (No VAE)](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE)**  
+🔗 **[CyberRealistic](https://civitai.com/models/15003)**  
+🔗 **[AbsoluteReality](https://civitai.com/models/81458)**  
+🔗 **[epiCRealism](https://civitai.com/models/25694/epicrealism)**  
+🔗 **[DreamShaper](https://civitai.com/models/4384)**  
+[📥](https://huggingface.co/XpucT/Deliberate/resolve/main/Deliberate_v2.safetensors) **[Deliberate v2](https://huggingface.co/XpucT/Deliberate/)**  
+[📥](https://huggingface.co/acheong08/f222/resolve/main/f222.safetensors) **[f222 Model](https://huggingface.co/acheong08/f222/)**  
 
 ### **SDXL-Based & XL Derivative Models**  
 🔗 **[Juggernaut XL](https://civitai.com/models/133005/juggernaut-xl)**  
 🔗 **[DreamShaper XL](https://civitai.com/models/112902/dreamshaper-xl)**  
 🔗 **[RealVisXL V5.0](https://civitai.com/models/139562/realvisxl-v50)**  
-
-### **Tuned and Specialized Realism Models**  
-[📥](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE/resolve/main/Realistic_Vision_V5.1_fp16-no-ema.safetensors) **[Realistic Vision V5.1 (No VAE)](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE)**  
-🔗 **[CyberRealistic](https://civitai.com/models/15003)**  
-🔗 **[AbsoluteReality](https://civitai.com/models/81458)**   
-[📥](https://huggingface.co/XpucT/Deliberate/resolve/main/Deliberate_v2.safetensors) **[Deliberate v2](https://huggingface.co/XpucT/Deliberate/)**  
-[📥](https://huggingface.co/acheong08/f222/resolve/main/f222.safetensors) **[f222 Model](https://huggingface.co/acheong08/f222/)**  
+🔗 **[Pony Diffusion V6 XL](https://civitai.com/models/257749/pony-diffusion-v6-xl)**  
 
 ### **Experimental and Alternative Architectures**  
 [📥](https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/flux1-dev.safetensors) **[FLUX Model (requires login)](https://huggingface.co/black-forest-labs/FLUX.1-dev)**  
@@ -240,9 +244,9 @@ ControlNet can be used to generate artistic or stylized QR codes while preservin
 
 [🔗 **Controlnet QR Pattern v2 (SD 1.5)**](https://civitai.com/models/90940?modelVersionId=111973) — More creative and bold pattern stylization.  
 
-[🔗 **QR Code Monster v1**](https://civitai.com/models/111006?modelVersionId=119698) — Stylized, artistic QR codes that still scan well (first version).  
+[🔗 **QR Code Monster v1 (SD 1.5)**](https://civitai.com/models/111006?modelVersionId=119698) — Stylized, artistic QR codes that still scan well (first version).  
 
-[🔗 **QR Code Monster v2**](https://civitai.com/models/111006?modelVersionId=122143) — Improved version with better balance between style and scanning reliability.  
+[🔗 **QR Code Monster v2 (SD 1.5)**](https://civitai.com/models/111006?modelVersionId=122143) — Improved version with better balance between style and scanning reliability.  
 
 ### **Where to Place These Models:**  
 Place `.safetensors` files in:  
