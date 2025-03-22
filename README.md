@@ -149,6 +149,7 @@ ControlNet is the most widely used extension, allowing models to follow guidance
 > **📋 Right-click the clipboard icon to copy the direct install link, then paste it into the Extensions > Install from URL box.**
 
 [📋](https://github.com/Mikubill/sd-webui-controlnet.git) [ControlNet (core extension)](https://github.com/Mikubill/sd-webui-controlnet) — Add structure with input guides like canny edges, depth maps, or poses.  
+[📋](https://github.com/vladmandic/sd-extension-system-info.git) [System Info](https://github.com/vladmandic/sd-extension-system-info) — System Info tab extensions for SD Automatic WebUI.  
 [📋](https://github.com/rifeWithKaiju/model_preset_manager.git) [Model Preset Manager](https://github.com/rifeWithKaiju/model_preset_manager) — This extension lets you create, manage, and share presets for models.  
 [📋](https://github.com/CMU-Perceptual-Computing-Lab/openpose.git) [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) — Create or edit poses for use in ControlNet.  
 [📋](https://github.com/fkunn1326/openpose-editor.git) [Openpose Editor](https://github.com/fkunn1326/openpose-editor) — Create or edit poses for use in ControlNet (requires `pip install basicsr`).  
@@ -162,7 +163,6 @@ ControlNet is the most widely used extension, allowing models to follow guidance
 [📋](https://github.com/deforum-art/sd-webui-deforum.git) [Deforum](https://github.com/deforum-art/sd-webui-deforum) — Animation and video generation with Stable Diffusion.  
 [📋](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111.git) [Ultimate SD Upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111) — High-quality upscaling for AI-generated images.  
 [📋](https://github.com/Bing-su/adetailer.git) [After Detailer](https://github.com/Bing-su/adetailer) — Automatic post-processing to refine faces and small details. (Download on first ui launch after install)  
-[📋](https://github.com/vladmandic/sd-extension-system-info.git) [System Info](https://github.com/vladmandic/sd-extension-system-info) — System Info tab extensions for SD Automatic WebUI.  
 
 ### **Managing Extensions**  
 - To remove an extension, close the UI and delete its folder from:  
