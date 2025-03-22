@@ -116,14 +116,24 @@ LoRA (Low-Rank Adaptation) models allow users to **fine-tune Stable Diffusion** 
   - Require **less VRAM** than full custom models.  
   - Easily switch between LoRAs for different artistic effects.  
 
-- **Where to Find LoRAs?**  
-  🔗 **[CivitAI](https://civitai.com/)** – Largest repository of user-generated LoRA models.  
-  🔗 **[Hugging Face](https://huggingface.co/)** – Hosts various pre-trained LoRAs.  
-
 - **How to Use LoRAs?**  
   - In **AUTOMATIC1111**, place the `.safetensors` file into the **`models/Lora/`** folder.  
   - Activate by adding `lora:model_name` in your prompt.  
   - Adjust LoRA strength with `<lora:model_name:0.7>` (0.1-1.0 range).  
+
+- **Where to Find LoRAs?**  
+  🔗 **[CivitAI](https://civitai.com/)** – Largest repository of user-generated LoRA models.  
+  🔗 **[Hugging Face](https://huggingface.co/)** – Hosts various pre-trained LoRAs.  
+
+- **Misc LoRA Downloads for SD1.5**  
+  🔗 **[SpaceKnights sd1.5](https://civitai.com/models/105123/spaceknights-sd15)**  
+  🔗 **[SpaceshipA](https://civitai.com/models/56168/spaceshipai)**  
+  🔗 **[Comic Book Page style (Anime + Manga + Western Comics) XL + F1D + Pony + Illustrious + SD1.5](https://civitai.com/models/462611?modelVersionId=1499349)**  
+  🔗 **[IMAX 70mm film style F1D + XL + SD1.5) XL + F1D + Pony + Illustrious + SD1.5](https://civitai.com/models/1249970/imax-70mm-film-style-f1d-xl-sd15?modelVersionId=1499635)**  
+  🔗 **[Necronomicon Pages](https://civitai.com/models/63565/necronomicon-pages)**  
+  🔗 **[Detail Tweaker LoRA (细节调整LoRA)](https://civitai.com/models/58390)**  
+  🔗 **[KIDS ILLUSTRATION](https://civitai.com/models/60724?modelVersionId=67980)**  
+
 
 ## **ControlNet (and Other Extensions)**  
 Extensions add powerful functionality to your AI workflow, enabling more control, structure, and creative freedom. Once you’re comfortable generating images from text, these tools will let you take control of composition, style, and fine detail.  
