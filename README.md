@@ -152,7 +152,7 @@ ControlNet is the most widely used extension, allowing models to follow guidance
 [📋](https://github.com/vladmandic/sd-extension-system-info.git) [System Info](https://github.com/vladmandic/sd-extension-system-info) — System Info tab extensions for SD Automatic WebUI.  
 [📋](https://github.com/w-e-w/sdwebui-close-confirmation-dialogue.git) [Close Confirmation Dialogue](https://github.com/w-e-w/sdwebui-close-confirmation-dialogue) — Webpage close confirmation dialogue for Stable Diffusion web UI.  
 [📋](https://github.com/rifeWithKaiju/model_preset_manager.git) [Model Preset Manager](https://github.com/rifeWithKaiju/model_preset_manager) — This extension lets you create, manage, and share presets for models.  
-[📋](https://github.com/some9000/StylePile.git) [StylePile](https://github.com/some9000/StylePile) — StylePile is an extension for mixing and matching elements to prompts that affect the style of the result.  
+[📋](https://github.com/some9000/StylePile.git) [StylePile](https://github.com/some9000/StylePile) — An extension for mixing and matching elements to prompts that affect the style of the result.  
 [📋](https://github.com/CMU-Perceptual-Computing-Lab/openpose.git) [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) — Create or edit poses for use in ControlNet.  
 [📋](https://github.com/fkunn1326/openpose-editor.git) [Openpose Editor](https://github.com/fkunn1326/openpose-editor) — Create or edit poses for use in ControlNet (requires `pip install basicsr`).  
 [📋](https://github.com/nonnonstop/sd-webui-3d-open-pose-editor.git) [3D Openpose Editor](https://github.com/nonnonstop/sd-webui-3d-open-pose-editor) — Create or edit poses for use in ControlNet.  
