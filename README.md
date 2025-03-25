@@ -129,7 +129,7 @@ LoRA (Low-Rank Adaptation) models allow users to **fine-tune Stable Diffusion** 
   🔗 **[CivitAI](https://civitai.com/)** – Largest repository of user-generated LoRA models.  
   🔗 **[Hugging Face](https://huggingface.co/)** – Hosts various pre-trained LoRAs.  
 
-- **Misc LoRA Downloads for SD1.5**  
+- **LoRA Downloads for SD1.5**  
   🔗 **[SpaceKnights sd1.5](https://civitai.com/models/105123/spaceknights-sd15)**  
   🔗 **[SpaceshipA](https://civitai.com/models/56168/spaceshipai)**  
   🔗 **[Comic Book Page style (Anime + Manga + Western Comics) XL + F1D + Pony + Illustrious + SD1.5](https://civitai.com/models/462611?modelVersionId=1499349)**  
@@ -138,6 +138,10 @@ LoRA (Low-Rank Adaptation) models allow users to **fine-tune Stable Diffusion** 
   🔗 **[Detail Tweaker LoRA (细节调整LoRA)](https://civitai.com/models/58390)**  
   🔗 **[KIDS ILLUSTRATION](https://civitai.com/models/60724?modelVersionId=67980)**  
 
+ - **LoRA Downloads for SDXL1.0**  
+  🔗 **[Pixel Art XL](https://civitai.com/models/120096/pixel-art-xl?modelVersionId=135931)**  
+  🔗 **[Detail Tweaker XL](https://civitai.com/models/122359/detail-tweaker-xl?modelVersionId=135867)**  
+  🔗 **[LeLo - LEGO LoRA for XL & SD1.5](https://civitai.com/models/92444/lelo-lego-lora-for-xl-and-sd15?modelVersionId=318915)**  
 
 ## **ControlNet (and Other Extensions)**  
 Extensions add powerful functionality to your AI workflow, enabling more control, structure, and creative freedom. Once you’re comfortable generating images from text, these tools will let you take control of composition, style, and fine detail.  
@@ -157,6 +161,7 @@ ControlNet is the most widely used extension, allowing models to follow guidance
 [📋](https://github.com/fkunn1326/openpose-editor.git) [Openpose Editor](https://github.com/fkunn1326/openpose-editor) — Create or edit poses for use in ControlNet (requires `pip install basicsr`).  
 [📋](https://github.com/nonnonstop/sd-webui-3d-open-pose-editor.git) [3D Openpose Editor](https://github.com/nonnonstop/sd-webui-3d-open-pose-editor) — Create or edit poses for use in ControlNet.  
 [📋](https://github.com/hako-mikan/sd-webui-regional-prompter.git) [Regional Prompter](https://github.com/hako-mikan/sd-webui-regional-prompter) — Use different prompts in different areas of an image.  
+[📋](https://github.com/Uminosachi/sd-webui-inpaint-anything.git) [Inpaint Anything](https://github.com/Uminosachi/sd-webui-inpaint-anything) —  Performs inpainting on a browser UI using masks selected from Segment Anything.  
 [📋](https://github.com/antfu/sd-webui-qrcode-toolkit.git) [QR Code Toolkit](https://github.com/antfu/sd-webui-qrcode-toolkit) — Generate and style scannable QR codes using Stable Diffusion.    
 [📋](https://github.com/LEv145/--sd-webui-ar-plus.git) [Aspect Ratio Selector Plus](https://github.com/LEv145/--sd-webui-ar-plus) — Advanced aspect ratio management for AUTOMATIC1111.  
 [📋](https://github.com/thomasasfk/sd-webui-aspect-ratio-helper.git) [Aspect Ratio Helper](https://github.com/thomasasfk/sd-webui-aspect-ratio-helper) — Simple extension to easily maintain aspect ratio while changing dimensions.  
